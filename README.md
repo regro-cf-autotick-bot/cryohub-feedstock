@@ -1,11 +1,11 @@
-About cryohub
-=============
+About cryohub-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cryohub-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/teamtomo/cryohub
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cryohub-feedstock/blob/main/LICENSE.txt)
 
 Summary: IO hub for Cryo-EM, Cryo-ET and subtomogram averaging data.
 
