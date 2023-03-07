@@ -25,6 +25,7 @@ requirements:
     - dask-core
     - dynamotable >=0.2.4
     - emfile >=0.3
+    - h5py
     - ipython
     - mrcfile >=1.3.0
     - numpy
@@ -39,7 +40,7 @@ test:
     - cryohub
   commands:
     - pip list
-    # - pip check  # Uncomment when new release relaxes dependencies
+    - pip check
   requires:
     - pip
 
