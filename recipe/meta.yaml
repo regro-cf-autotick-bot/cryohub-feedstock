@@ -34,6 +34,7 @@ requirements:
     - python >=3.8
     - scipy
     - starfile >=0.4.5
+    - tifffile
 
 test:
   imports:
