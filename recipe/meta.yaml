@@ -36,7 +36,7 @@ requirements:
     - scipy
     - starfile >=0.5
     - tifffile
-	  - zarr
+    - zarr
 
 test:
   imports:
