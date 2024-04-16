@@ -1,5 +1,5 @@
 {% set name = "cryohub" %}
-{% set version = "0.6.3" %}
+{% set version = "0.6.4" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/cryohub-{{ version }}.tar.gz
-  sha256: b23c53f385f27d8154257769cbe1320f40c75027878b04cb5b0aabd386fcbf3c
+  sha256: f3630fee37b493e55948b35d017d5a9d10ca80d198e63cf6688df285c058a358
 
 build:
   noarch: python
